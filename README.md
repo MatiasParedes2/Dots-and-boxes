@@ -42,8 +42,12 @@ Para visualizar las clases utilizadas en este proyecto puede usar el siguiente l
 Video de demostracion del juego en replit: https://drive.google.com/file/d/1UeHFFM0TeLLTRKZkHsn7Dfqu7v5lRSyI/view
 ### AUTORES
 -Sebastián Rafael Moreno Flores
+
 -Milton Esteban Robles Reyes
+
 -Matias Luis Paredes Ramos
+
 -Diego armando Valenzuela Huamán
 
 BIBLIOGRAFÍA
+Thebatzuk, A. (2021, 5 julio). Función delay() en C++. Código C++. https://ccodigo.wordpress.com/2010/09/24/funcion-delay-en-c/
