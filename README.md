@@ -32,7 +32,8 @@ El proyecto presenta las siguientes características:
 ### INSTRUCCIONES O REGLAS DE USO
 -Para jugar a Dots & Boxes ambos jugadores en su turno deben seleccionar dos puntos, el punto de inicio y el punto de llegada, en medio de ambos puntos se va a colocar la línea.
 -Es importante recordar que las coordenadas no pueden ser tan distantes, solo hay un máximo de 1 distancia.
--Para mayor comprension del manejo de coordenadas se sugiere revisar el siguiente link: https://docs.google.com/spreadsheets/d/1Zj0ZEPT-azxysAfno-gLUTwNxQYY8lrB/edit?usp=sharing&ouid=113494803799971937442&rtpof=true&sd=true
+-Para mayor comprension del manejo de coordenadas se sugiere revisar el siguiente link: 
+https://docs.google.com/spreadsheets/d/1Zj0ZEPT-azxysAfno-gLUTwNxQYY8lrB/edit?usp=sharing&ouid=113494803799971937442&rtpof=true&sd=true
 ### LICENCIA DE USO
 -El proyecto es de libre uso y puede ser usado para entretener o para estudiar programación.
 -Solo es necesario mencionar los autores de este proyecto en cualquier video/trabajo/tarea que use como recurso este juego.
