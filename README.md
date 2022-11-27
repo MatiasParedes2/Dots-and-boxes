@@ -49,6 +49,6 @@ Video de demostracion del juego en replit: https://drive.google.com/file/d/1UeHF
 
 -Diego armando Valenzuela Huamán
 
-BIBLIOGRAFÍA
+### BIBLIOGRAFÍA
 
 Thebatzuk, A. (2021, 5 julio). Función delay() en C++. Código C++. https://ccodigo.wordpress.com/2010/09/24/funcion-delay-en-c/
