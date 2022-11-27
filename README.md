@@ -15,12 +15,19 @@ El proyecto presenta las siguientes características:
 
 ### GUÍA DE INSTALACIÓN
 1.Instalar Clion en la última versión
+
 2.Abrir Clion
+
 3.Abrir proyecto replit con el siguiente link:
+
 4.Usar el link del proyecto de replit
+
 5.Darle a la opción "get from cvs"
+
 6.Clonar proyecto
+
 7.Darle a ejecutar y listo ya puedes disfrutar del juego!!
+
 8.Si desea tambien puede descargar los archvios en un archivo zip y utilizar su IDE de preferencia
 ### INSTRUCCIONES O REGLAS DE USO
 -Para jugar a Dots & Boxes ambos jugadores en su turno deben seleccionar dos puntos, el punto de inicio y el punto de llegada, en medio de ambos puntos se va a colocar la línea.
