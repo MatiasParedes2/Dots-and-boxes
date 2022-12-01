@@ -11,7 +11,8 @@ El proyecto presenta las siguientes características:
 
 ### REQUISITOS DE INSTALACIÓN
 -Tener instalado la última versión de Clion
--Tener cuenta en replit
+
+-Tener cuenta en github
 
 ### GUÍA DE INSTALACIÓN
 1.Instalar Clion en la última versión
