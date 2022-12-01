@@ -40,7 +40,7 @@ https://docs.google.com/spreadsheets/d/1Zj0ZEPT-azxysAfno-gLUTwNxQYY8lrB/edit?us
 ### DIAGRAMAS DE CLASES
 Para visualizar las clases utilizadas en este proyecto puede usar el siguiente link: https://lucid.app/lucidchart/d13fd263-c372-4632-a088-c70656c5ff1e/edit?invitationId=inv_305b43aa-52f3-49da-ba33-5725b1378eeb
 ###  LINK DE VIDEO DE PRESENTACIÓN
-Video de demostracion del juego en replit: https://drive.google.com/file/d/1UeHFFM0TeLLTRKZkHsn7Dfqu7v5lRSyI/view
+Video de demostracion del juego en Clion: https://drive.google.com/file/d/1UeHFFM0TeLLTRKZkHsn7Dfqu7v5lRSyI/view
 ### AUTORES
 -Sebastián Rafael Moreno Flores
 
